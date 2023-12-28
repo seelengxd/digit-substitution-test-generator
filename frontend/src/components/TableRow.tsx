@@ -1,5 +1,5 @@
 import { Table, Td, Th, Tr } from "@chakra-ui/react";
-import { getRandomInt } from "./utils/random";
+import { getRandomInt } from "../utils/random";
 
 interface Props {
   size: number;
